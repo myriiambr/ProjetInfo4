@@ -133,5 +133,6 @@
             }
         }
     </script>
+    <script src="js/adminSimulation.js"></script>
 </body>
 </html>
